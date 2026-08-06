@@ -2,9 +2,6 @@
 
 A functional clone of the Fireflies.ai meeting-assistant platform — meetings library, interactive transcript viewer with click-to-seek, AI-generated summaries/action items/topics (mocked), and full CRUD for meetings and action items.
 
-Live demo: **[add your deployed link here]**
-
----
 
 ## Tech Stack
 
